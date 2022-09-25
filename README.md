@@ -10,8 +10,9 @@ Software Engineering Technical Test
 # Instalation process
 1. git clone https://github.com/Rav9zw/WirelessLogic.git 
 2. cp .env.example .env
-3. php artisan key:generate
-4. Composer install
+3. Composer install
+4. php artisan key:generate
+
 
 
 # Running application
