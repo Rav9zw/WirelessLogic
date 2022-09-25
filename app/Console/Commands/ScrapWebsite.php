@@ -44,10 +44,9 @@ class ScrapWebsite extends Command
         });
 
         //displaying result if exist
+
         if ($data) {
-            $this->line(json_encode($data,JSON_UNESCAPED_UNICODE));
-        } else {
-            $this->line('Data not found');
+            $this->line(json_encode($data, JSON_UNESCAPED_UNICODE));
         }
 
         return 0;
