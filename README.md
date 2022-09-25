@@ -8,7 +8,7 @@ Software Engineering Technical Test
 
 
 # Instalation process
-1. Clone 
+1. git clone https://github.com/Rav9zw/WirelessLogic.git 
 2. Composer install
 
 
